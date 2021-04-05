@@ -8,5 +8,5 @@ My name is Aleksandra and I'm passionate about data science, warm drinks and all
 
 ---
 ### Follow my socials 
-![https://twitter.com/haixei](https://i.imgur.com/wd4Deqb.png) 
-![https://medium.com/@aleksandra-osuch](https://i.imgur.com/ZqMFcP3.png)
+![https://twitter.com/haixei](https://i.imgur.com/BcrSQam.png) 
+![https://medium.com/@aleksandra-osuch](https://i.imgur.com/DOZpZxY.png)
