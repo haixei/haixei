@@ -1,4 +1,4 @@
-## Hello, salut, 你好, 안녕하세요!
+## Hello, 你好, 안녕하세요, salut!
 My name is Aleksandra and I'm passionate about data science, warm drinks and all the IT stuff. I used to work as a freelance web developer and now I'm exploring my other fields of interest. Aside of that I'm also very interested in travel and languages. Hit me up if you feel like playing a game of chess or just chatting, I'd love to connect with new people.
 
 ### Stack
