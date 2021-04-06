@@ -1,5 +1,5 @@
 ## Hi there! 👋
-My name is Aleksandra and I'm passionate about data science, electrict cars and languages. I'm currently exploring math behind models and neural networks. Feel free to hit me up for a chat over a virtual cup of tea if you have a minute.
+My name is Aleksandra and I'm passionate about data science, electric cars and languages. I'm currently exploring math behind models and neural networks. Feel free to hit me up for a chat over a virtual cup of tea if you have a minute.
 ### Stack
 | Best Language | Data Science                        | Databases           | Software     |
 |---------------|-------------------------------------|---------------------|--------------|
