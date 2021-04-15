@@ -7,5 +7,5 @@ My name is Aleksandra and I'm passionate about data science, electric cars and l
 
 ---
 ### Follow my socials 
-![https://twitter.com/haixei](https://i.imgur.com/BcrSQam.png) 
-![https://medium.com/@aleksandra-osuch](https://i.imgur.com/DOZpZxY.png)
+[![Twitter](https://i.imgur.com/BcrSQam.png)](https://twitter.com/haixei)
+[![Medium](https://i.imgur.com/DOZpZxY.png)](https://medium.com/@aleksandra-osuch)
