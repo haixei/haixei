@@ -1,9 +1,9 @@
 ## Hi there! 👋
 My name is Aleksandra and I'm passionate about data science, electric cars and languages. I'm currently exploring math behind models and neural networks. Feel free to hit me up for a chat over a virtual cup of tea if you have a minute.
 ### Stack
-| Best Language | Data Science                        | Databases           | Software     |
+| Best Language | Data Science                        | Databases           | Other     |
 |---------------|-------------------------------------|---------------------|--------------|
-| Python        | Tensorflow, Plotly, Scipy, Pandas, Matplotlib  | Postgresql, MongoDB | Pycharm, VSC |
+| Python        | Tensorflow, Plotly, Scipy, Pandas, Matplotlib  | Postgresql, MongoDB | Django, Flask, React |
 
 ---
 ### Follow my socials 
