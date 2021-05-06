@@ -1,11 +1,7 @@
-## Hi there! 👋
-My name is Aleksandra and I'm passionate about data science, electric cars and languages. I'm currently exploring math behind models and neural networks. Feel free to hit me up for a chat over a virtual cup of tea if you have a minute.
-### Stack
-| Best Language | Data Science                        | Databases           | Other     |
-|---------------|-------------------------------------|---------------------|--------------|
-| Python        | Tensorflow, Plotly, Scipy, Pandas, Matplotlib  | Postgresql, MongoDB | Django, Flask, React |
+<img src="https://i.imgur.com/S5wTfJa.png" width="707">
+<h3>About & Plans</h3>
+<p>I'm always happy to connect with new people, so feel free to hit me up when you<br>feel like talking about AI, chess or anything else! I'm also down for competitions,<br>so if you're looking for a teammate, let me know.</p>
+<h2></h2>
 
----
-### Follow my socials 
-[![Twitter](https://i.imgur.com/BcrSQam.png)](https://twitter.com/haixei)
-[![Medium](https://i.imgur.com/DOZpZxY.png)](https://medium.com/@aleksandra-osuch)
+🌿 **Currently working on**: Image classification challenge data from Intel<br>
+🍵 **Learning all about:** Python and Linux (Yes, I do use Arch)
