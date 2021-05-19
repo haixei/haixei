@@ -4,4 +4,4 @@
 <h2></h2>
 
 🌊 **Currently working on**: Image classification challenge data from Intel<br>
-🍵 **Learning all about:** Python and Linux (Yes, I do use Arch)
+📝 **Learning all about:** Python and Linux (Yes, I do use Arch)
