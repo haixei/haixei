@@ -4,4 +4,4 @@
 <h2></h2>
 
 🌊 **Currently working on**: VA Clara!<br>
-📝 **Learning all about:** Data science & software
+📝 **Learning all about:** Data science & software design
