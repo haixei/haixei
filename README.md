@@ -7,4 +7,4 @@
 
 <h2></h2>
 
-![Aleks's GitHub stats](https://github-readme-stats.vercel.app/api?username=haixei&theme=prussian&show_icons=true&bg_color=cfcfc&text_color=424242&title_color=db97a2&icon_color=2e2e2e)
+![Aleks's GitHub stats](https://github-readme-stats.vercel.app/api?username=haixei&theme=prussian&show_icons=true&bg_color=cfcfc&text_color=424242&title_color=d48188&icon_color=2e2e2e)
