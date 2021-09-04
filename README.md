@@ -7,4 +7,10 @@
 
 <h2></h2>
 
-![Aleks's GitHub stats](https://github-readme-stats.vercel.app/api?username=haixei&theme=prussian&show_icons=true&bg_color=cfcfc&text_color=424242&title_color=c29fa2&icon_color=2e2e2e)
+<h4>Latest on Kaggle</h4>
+
+- [Travel insurance EDA (Plotly) + Predictions (SVC)](https://www.kaggle.com/stellastella00/travel-insurance-eda-plotly-predictions-svc)
+
+<h4>Posts</h4>
+
+- *To be written..*
