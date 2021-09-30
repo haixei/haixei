@@ -10,7 +10,3 @@
 <h4>Latest on Kaggle</h4>
 
 - [Travel insurance EDA (Plotly) + Predictions (SVC)](https://www.kaggle.com/stellastella00/travel-insurance-eda-plotly-predictions-svc)
-
-<h4>Posts</h4>
-
-- *To be written..*
