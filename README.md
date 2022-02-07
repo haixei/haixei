@@ -15,4 +15,4 @@ All articles are linked in the repository related to them. Additional data visua
 <h2></h2>
 
 ### Useful links
-[Blog](https://www.tearequired.com/), [Kaggle](https://www.kaggle.com/stellastella00), [Twitter](https://www.kaggle.com/stellastella00)
+[Blog](https://www.tearequired.com/), [Kaggle](https://www.kaggle.com/stellastella00), [Twitter](https://twitter.com/haixei)
